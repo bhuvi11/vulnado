@@ -1,5 +1,7 @@
 # Vulnado - Intentionally Vulnerable Java Application
 
+[![CIS](https://app.soluble.cloud/api/v1/public/badges/6b2f4a5c-eb31-4a57-8672-f05e2d12096c.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/vulnado)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/d2d9973b-bb8b-463e-8ac4-3e2b89127fc6.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/vulnado)  [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/f68366d2-38e8-46ef-87e7-a72dcb6346ff.svg)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/vulnado)  
+
 This application and exercises will take you through some of the OWASP top 10 Vulnerabilities and how to prevent them.
 
 ## Up and running
